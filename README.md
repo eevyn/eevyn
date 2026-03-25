@@ -5,5 +5,3 @@
 - 💬 Ask me about anything
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i hate bananas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eevyn&show_icons=true&theme=dracula)
